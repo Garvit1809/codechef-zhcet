@@ -1231,6 +1231,12 @@ section {
 .team .member .member-img {
   position: relative;
   overflow: hidden;
+  width: 20vw;
+  height: 40vh;
+}
+.team .member .member-img .img-fluid {
+  width: 100%;
+  height: 40vh;
 }
 
 .team .member .social {
